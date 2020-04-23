@@ -1,2 +1,2 @@
-# sitting
+# FiveM Sitting
 FiveM Script Sitting
